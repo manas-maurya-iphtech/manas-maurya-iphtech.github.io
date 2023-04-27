@@ -1,0 +1,85 @@
+[
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": true
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": false
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": true
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": false
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": true
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": false
+    },
+
+    {
+        "deviceName" : "IPhone",
+        "assignedDevice" : "Macbook-Air",
+        "dateFrom" : "12-04-2020",
+        "dateTo" : "14-04-2020",
+        "assignedBy" : "Ramanika Ma'am",
+        "deviceType" : "Laptop",
+        "modelNo" : "001",
+        "status" : "Assigned",
+        "isAssigned": true
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Manas Maurya",
+        "from": "05-07-2021",
+        "to": "08-07-2021",
+        "days": "2",
+        "reasons": "Due to Covid",
+        "approvedBy": "DK Boss",
+        "employeeId": "1",
+        "isApproved": true
+    },
+    {
+        "name": "Chandan Mishra",
+        "from": "10-05-2023",
+        "to": "15-05-2023",
+        "days": "5",
+        "reasons": "Due to Function",
+        "approvedBy": "Ramanika Ma'am",
+        "employeeId": "2",
+        "isApproved": false
+
+    },
+    {
+        "name": "Ankur Kumar",
+        "from": "04-06-2023",
+        "to": "06-06-2023",
+        "days": "2",
+        "reasons": "Due to Checkup",
+        "approvedBy": "Ramanika Ma'am",
+        "employeeId": "3",
+        "isApproved": true
+    }
+
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "name": "John Doe",
+        "employeeId": "1",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": true
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "2",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": false
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "3",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": true
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "4",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": false
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "5",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": true
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "6",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": false
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "7",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": true
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "8",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": false
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "9",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": true
+    },
+    {
+        "name": "John Doe",
+        "employeeId": "10",
+        "checkInTime": "09:00 AM",
+        "checkOutTime": "05:00 PM",
+        "designation": "Software Engineer",
+        "status": "Active",
+        "totalTime":"8 hours",
+        "isLate": false
+    },
+
+    {
+        "name": "Jack",
+        "employeeId": "11",
+        "checkInTime": "10:00 AM",
+        "checkOutTime": "06:00 PM",
+        "designation": "Data Scientist",
+        "status": "Inactive",
+        "totalTime":"8 hours",
+        "isLate": false
+    }
+]

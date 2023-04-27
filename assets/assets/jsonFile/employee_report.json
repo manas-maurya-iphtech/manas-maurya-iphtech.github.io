@@ -1,0 +1,74 @@
+[
+    {
+        "srNo": "1",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": false
+    },
+    {
+        "srNo": "2",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": true
+    },
+    {
+        "srNo": "3",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": false
+    },
+    {
+        "srNo": "4",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": true
+    },
+    {
+        "srNo": "5",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": true
+    },
+    {
+        "srNo": "6",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": false
+    },
+    {
+        "srNo": "7",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": false
+    },
+    {
+        "srNo": "8",
+        "name": "Chandan Mishra",
+        "company": "IPH Technologies",
+        "emailId": "chandan@gmail.com",
+        "role": "Client",
+        "designation": "CTO",
+        "isActive": false
+    }
+]

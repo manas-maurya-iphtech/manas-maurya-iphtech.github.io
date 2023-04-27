@@ -1,0 +1,37 @@
+[
+    {
+        "date": "01-01-2023",
+        "day": "Sunday",
+        "event": "New Year"
+    },
+    {
+        "date": "14-01-2023",
+        "day": "Saturday",
+        "event": "Makar Sankranti"
+    },
+    {
+        "date": "26-01-2023",
+        "day": "Thursday",
+        "event": "Republic Day"
+    },
+    {
+        "date": "18-02-2023",
+        "day": "Saturday",
+        "event": "Mahashivaratri"
+    },
+    {
+        "date": "08-03-2023",
+        "day": "Wednesday",
+        "event": "Holi"
+    },
+    {
+        "date": "30-03-2023",
+        "day": "Wednesday",
+        "event": "Rama Navami"
+    },
+    {
+        "date": "07-04-2023",
+        "day": "Friday",
+        "event": "Good Friday"
+    }
+]
